@@ -44,6 +44,91 @@
           "name":"Citibank, N.A.",
           "group":1,
           "index":8
+       },
+       {
+          "name":"JPMorgan Chase Bank, National Association",
+          "group":1,
+          "index":9
+       },
+       {
+          "name":"Danske Bank A/S",
+          "group":1,
+          "index":10
+       }, 
+       {
+          "name":"Barclays Bank PLC",
+          "group":1,
+          "index":11
+       },
+       {
+          "name":"Akbank T.A.S.",
+          "group":1,
+          "index":12
+       },
+       {
+          "name":"Bank of China Limited",
+          "group":1,
+          "index":13
+       },
+       {
+          "name":"Danske Bank A/S",
+          "group":1,
+          "index":14
+       },
+       {
+          "name":"HSBC Bank plc",
+          "group":1,
+          "index":15
+       },
+       {
+          "name":"DNB Bank ASA",
+          "group":1,
+          "index":16
+       },
+       {
+          "name":"UBS Switzerland AG",
+          "group":1,
+          "index":17
+       },
+       {
+          "name":"The Bank of New York Mellon",
+          "group":1,
+          "index":18
+       },
+       {
+          "name":"Oversea-Chinese Banking Corporation Limited",
+          "group":1,
+          "index":19
+       },  
+       {
+          "name":"Citibank, N.A.",
+          "group":1,
+          "index":20
+       },
+       {
+          "name":"MUFG Bank Ltd.",
+          "group":1,
+          "index":21
+       },
+       {
+          "name":"Industrial and Commercial Bank of China (Asia) Limited",
+          "group":1,
+          "index":22
+       },
+       {
+          "name":"Powszechna Kasa Oszczednosci Bank Polski Spolka Akcyjna",
+          "group":1,
+          "index":23
+       },
+       {
+          "name":"Bank ICBC (joint stock company)",
+          "group":1,
+          "index":24
+       },  
+       {
+          "name":"Komercni banka a.s.",
+          "group":1,
+          "index":25
        }
     ],
     "links":[
@@ -55,17 +140,17 @@
        {
           "source":2,
           "target":0,
-          "value":8
+          "value":1
        },
        {
           "source":3,
           "target":0,
-          "value":10
+          "value":1
        },
        {
           "source":4,
           "target":0,
-          "value":6
+          "value":1
        },
        {
           "source":5,
@@ -85,6 +170,101 @@
        {
           "source":8,
           "target":0,
+          "value":1
+       },
+       {
+          "source":9,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":10,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":11,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":12,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":13,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":14,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":15,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":16,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":17,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":18,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":19,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":20,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":21,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":22,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":6,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":23,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":24,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":25,
+          "target":1,
+          "value":1
+       },
+       {
+          "source":3,
+          "target":1,
           "value":1
        }
     ]
