@@ -44,7 +44,103 @@
           "name":"Citibank, N.A.",
           "group":1,
           "index":880933
-       }
+       },  
+       {
+          "name":"JPMorgan Chase Bank, National Association",
+          "group":1,
+          "index":877707
+       },
+       {
+          "name":"Danske Bank A/S",
+          "group":1,
+          "index":633078
+       }, 
+       {
+          "name":"Barclays Bank PLC",
+          "group":1,
+          "index":215537
+       },
+       {
+          "name":"Akbank T.A.S.",
+          "group":1,
+          "index":681258
+       },
+       {
+          "name":"Bank of China Limited",
+          "group":1,
+          "index":777566
+       },
+       {
+          "name":"Danske Bank A/S",
+          "group":1,
+          "index":83789
+       },
+       {
+          "name":"HSBC Bank plc",
+          "group":1,
+          "index":215540
+       },
+       {
+          "name":"DNB Bank ASA",
+          "group":1,
+          "index":640854
+       },
+       {
+          "name":"UBS Switzerland AG",
+          "group":1,
+          "index":77500
+       },
+       {
+          "name":"The Bank of New York Mellon",
+          "group":1,
+          "index":865853
+       },
+       {
+          "name":"Oversea-Chinese Banking Corporation Limited",
+          "group":1,
+          "index":629995
+       },  
+       {
+          "name":"Citibank, N.A.",
+          "group":1,
+          "index":231130
+       },
+       {
+          "name":"MUFG Bank Ltd.",
+          "group":1,
+          "index":488666
+       },
+       {
+          "name":"Industrial and Commercial Bank of China (Asia) Limited",
+          "group":1,
+          "index":232030
+       },
+       {
+          "name":,
+          "group":1,
+          "index":880934
+       },
+       {
+          "name":"Powszechna Kasa Oszczednosci Bank Polski Spolka Akcyjna",
+          "group":1,
+          "index":623847
+       },
+       {
+          "name":"Bank ICBC (joint stock company)",
+          "group":1,
+          "index":633525
+       },  
+       {
+          "name":"Komercni banka a.s.",
+          "group":1,
+          "index":81926
+       },
+       {
+          "name":,
+          "group":1,
+          "index":79236
+       } 
+                
     ],
     "links":[
        {
@@ -55,17 +151,17 @@
        {
           "source":231445,
           "target":2073,
-          "value":8
+          "value":1
        },
        {
           "source":79236,
           "target":2073,
-          "value":10
+          "value":1
        },
        {
           "source":630354,
           "target":2073,
-          "value":6
+          "value":1
        },
        {
           "source":6274,
@@ -86,6 +182,101 @@
           "source":880933,
           "target":2073,
           "value":1
-       }
+       },
+       {
+          "source":877707,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":633078,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":215537,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":681258,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":777566,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":83789,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":215540,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":640854,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":77500,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":865853,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":629995,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":231130,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":488666,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":232030,
+          "target":625266,
+          "value":1
+       },
+    //    {
+    //       "source":880934,
+    //       "target":625266,
+    //       "value":1
+    //    },
+       {
+          "source":623847,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":633525,
+          "target":625266,
+          "value":1
+       },
+       {
+          "source":81926,
+          "target":625266,
+          "value":1
+       },
+    //    {
+    //       "source":79236,
+    //       "target":625266,
+    //       "value":1
+    //    }
     ]
  }
