@@ -3,88 +3,88 @@
        {
           "name":"VTB Bank (Armenia) CJSC",
           "group":1,
-          "index":2073
+          "index":0
        },
        {
           "name":"VTB Bank (PJSC)",
           "group":1,
-          "index":625266
+          "index":1
        },
        {
           "name":"Joint Stock Company VTB Bank (Georgia)",
           "group":1,
-          "index":231445
+          "index":2
        },
        {
           "name":"VTB Bank (Europe) SE",
           "group":1,
-          "index":79236
+          "index":3
        },
        {
           "name":"Sberbank of Russia",
           "group":1,
-          "index":630354
+          "index":4
        },
        {
           "name":"Raiffeisen Bank International AG",
           "group":1,
-          "index":6274
+          "index":5
        },
        {
           "name":"Citibank, N.A.",
           "group":1,
-          "index":880934
+          "index":6
        },
        {
           "name":"Deutsche Bank Trust Company Americas",
           "group":1,
-          "index":865845
+          "index":7
        },
        {
           "name":"Citibank, N.A.",
           "group":1,
-          "index":880933
+          "index":8
        }
     ],
     "links":[
        {
-          "source":625266,
-          "target":2073,
+          "source":1,
+          "target":0,
           "value":1
        },
        {
-          "source":231445,
-          "target":2073,
+          "source":2,
+          "target":0,
           "value":8
        },
        {
-          "source":79236,
-          "target":2073,
+          "source":3,
+          "target":0,
           "value":10
        },
        {
-          "source":630354,
-          "target":2073,
+          "source":4,
+          "target":0,
           "value":6
        },
        {
-          "source":6274,
-          "target":2073,
+          "source":5,
+          "target":0,
           "value":1
        },
        {
-          "source":880934,
-          "target":2073,
+          "source":6,
+          "target":0,
           "value":1
        },
        {
-          "source":865845,
-          "target":2073,
+          "source":7,
+          "target":0,
           "value":1
        },
        {
-          "source":880933,
-          "target":2073,
+          "source":8,
+          "target":0,
           "value":1
        }
     ]
