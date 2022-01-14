@@ -23,7 +23,7 @@
        {
           "name":"Sberbank of Russia",
           "group":1,
-          "index":26
+          "index":4
        },
        {
           "name":"Raiffeisen Bank International AG",
@@ -148,7 +148,7 @@
           "value":1
        },
        {
-          "source":26,
+          "source":4,
           "target":0,
           "value":1
        },
